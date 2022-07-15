@@ -1,4 +1,4 @@
-# Seamless Item Frames - Mod for FabricMC
+# InvisibleFrames - Mod for FabricMC
 
 ## Setup
 
