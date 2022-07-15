@@ -2,10 +2,5 @@
 
 ## Setup
 
-This mod is server-side so feel free to use it on "vanill-ish" servers. No need to install it on client.
+This mod will allow you to create invisible frames using shears and return them with leather.
 
-For more info check [wiki](https://github.com/JustS-js/seamlessFrames/wiki)
-
-## License
-
-This piece of software is under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
