@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "invisibleframes",
+  "version": "${version}",
+
+  "name": "Invisible Frames",
+  "description": "This mod will allow you to create invisible frames using shears",
+  "authors": [
+    "_Axa_lotL_"
+  ],
+  "contact": {
+    "sources": ""
+  },
+
+  "license": "MIT",
+  "icon": "assets/sframes/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.axalotlinc.invisibleframes.InvisibleFramesMod"
+    ]
+  },
+  "mixins": [
+    "invisibleframes.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
